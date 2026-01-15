@@ -8,6 +8,7 @@
 
 **Selfhosted Apps**
 --
+
 ![Static Badge](https://img.shields.io/badge/-AdGuard%20Home-%2368BC71?logo=adguard&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Authentik-%23FD4B2D?logo=authentik&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Homepage-%23009BD5?logo=homepage&logoColor=white)
@@ -21,18 +22,11 @@
 
 **Coding**
 --
-![Static Badge](https://img.shields.io/badge/-Shell-4EAA25?logo=gnubash&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-HTML-e44b23?logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-CSS-563d7c?logo=css&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-JavaScript-f1e05a?logo=javascript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=bash,python,html,css,javascript,git&theme=dark&perline=15)](https://skillicons.dev)
 
 **Cloud**
 --
-![Static Badge](https://img.shields.io/badge/-AWS-FF9900)
-![Static Badge](https://img.shields.io/badge/-Azure-0078D4)
-![Static Badge](https://img.shields.io/badge/-Oracle-f80000)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure&theme=dark&perline=15)](https://skillicons.dev)
 
 **Networking**
 --
