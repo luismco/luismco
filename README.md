@@ -6,13 +6,6 @@
 * Development and Automation
 * Network Planning and Designing
 
-**Operating Systems**
---
-![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-DD1155?logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/-Fedora-51a2da?logo=fedora&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Windows%20Server-004FE1?logo=windows)
-
 **Selfhosted Apps**
 --
 ![Static Badge](https://img.shields.io/badge/-AdGuard%20Home-%2368BC71?logo=adguard&logoColor=white)
