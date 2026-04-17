@@ -30,8 +30,8 @@
 
 **Networking**
 --
-![Static Badge](https://img.shields.io/badge/-Packet%20Tracer-1BA0D7)
-![Static Badge](https://img.shields.io/badge/-GNS3-733fba)
+![Static Badge](https://img.shields.io/badge/-Cisco-1BA0D7)
+![Static Badge](https://img.shields.io/badge/-Arruba-733fba)
 ![Static Badge](https://img.shields.io/badge/-TP--Link%20Omada-10C1D0)
 
 
