@@ -8,7 +8,7 @@
 
 **Selfhosting**
 --
-![Static Badge](https://img.shields.io/badge/-Proxmox-orange?logo=proxmox&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Proxmox-e57000?logo=proxmox&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-AdGuard%20Home-%2368BC71?logo=adguard&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Keycloak-%23009BD5?logo=keycloak&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Immich-%234250AF?logo=immich&logoColor=white)
