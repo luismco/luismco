@@ -8,29 +8,40 @@
 
 **Selfhosting**
 --
-![Static Badge](https://img.shields.io/badge/-Proxmox-e57000?logo=proxmox&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-AdGuard%20Home-%2368BC71?logo=adguard&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Keycloak-%23009BD5?logo=keycloak&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Immich-%234250AF?logo=immich&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Jellyfin-%2300A4DC?logo=jellyfin&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-qbittorrent-%232F67BA?logo=qbittorrent&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Radarr-%23FFCB3D?logo=radarr&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Sonarr-%232596BE?logo=sonarr&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Tailscale-%23242424?logo=tailscale&logoColor=white)
+![PVE](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge)
+![PBS](https://img.shields.io/badge/Proxmox_BS-E57000?style=for-the-badge)
+![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-68BC71?style=for-the-badge)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D9AC5?style=for-the-badge)
+![Caddy](https://img.shields.io/badge/Caddy-1EB854?style=for-the-badge)
+![Immich](https://img.shields.io/badge/Immich-4250AF?style=for-the-badge)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge)
+![OAuth2 Proxy](https://img.shields.io/badge/OAuth2_Proxy-EB5424?style=for-the-badge)
+![Gotify](https://img.shields.io/badge/Gotify-2196F3?style=for-the-badge)
+![Healthchecks](https://img.shields.io/badge/Healthchecks-4CAF50?style=for-the-badge)
+![BookStack](https://img.shields.io/badge/BookStack-0288D1?style=for-the-badge)
 
 **Coding**
 --
-[![My Skills](https://skillicons.dev/icons?i=bash,python,html,css,javascript,git&theme=dark&perline=15)](https://skillicons.dev)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 
 **Cloud**
 --
-[![My Skills](https://skillicons.dev/icons?i=aws,azure&theme=dark&perline=15)](https://skillicons.dev)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge)
 
 **Networking**
 --
-![Static Badge](https://img.shields.io/badge/-Cisco-1BA0D7)
-![Static Badge](https://img.shields.io/badge/-HPE--Arruba-733fba)
-![Static Badge](https://img.shields.io/badge/-TP--Link%20Omada-10C1D0)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge)
+![HPE Aruba](https://img.shields.io/badge/HPE_Aruba-FF8300?style=for-the-badge)
+![TP-Link Omada](https://img.shields.io/badge/TP--Link_Omada-4DB848?style=for-the-badge)
+![NetBox](https://img.shields.io/badge/NetBox-00C4AC?style=for-the-badge)
 
 
 
