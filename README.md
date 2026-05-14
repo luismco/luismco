@@ -10,7 +10,7 @@
 --
 [![PVE](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge)](https://www.proxmox.com)
 [![PBS](https://img.shields.io/badge/Proxmox_BS-E57000?style=for-the-badge)](https://www.proxmox.com/proxmox-backup-server)
-[![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-68BC71?style=for-the-badge)](https://adguard.com/adguard-home.html)
+[![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-68BC71?style=for-the-badge)](https://github.com/AdguardTeam/Adguardhome)
 [![Keycloak](https://img.shields.io/badge/Keycloak-4D9AC5?style=for-the-badge)](https://www.keycloak.org)
 [![Caddy](https://img.shields.io/badge/Caddy-1EB854?style=for-the-badge)](https://caddyserver.com)
 [![Immich](https://img.shields.io/badge/Immich-4250AF?style=for-the-badge)](https://immich.app)
