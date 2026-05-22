@@ -1,5 +1,5 @@
 ## Tech and Homelab Enthusiast
-### Networking and Cyber Security Student
+### Systems & Security Administrator
 
 **Interests**
 * Self-Hosted Applications and Services
